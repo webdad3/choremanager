@@ -1,0 +1,2 @@
+# choremanager
+vuejs choremanager
